@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>News Crux</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#000000">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="glow-backdrop"></div>
+  <header class="app-header">
+    <div class="brand">
+      <div class="logo-orb">NC</div>
+      <div>
+        <h1 class="brand-title">NEWS CRUX</h1>
+        <div class="status-indicator">
+          <span class="pulse-dot"></span>
+          <span id="editionLabel">LIVE SYNC</span>
+        </div>
+      </div>
+    </div>
+    <div class="lang-switch-3d" id="langSwitch">
+      <div class="switch-pill">
+        <span class="lang-opt active" id="optEN">EN</span>
+        <span class="lang-opt" id="optHI">हि</span>
+        <div class="pill-slider" id="pillSlider"></div>
+      </div>
+    </div>
+  </header>
+  <nav class="chips-scroller">
+    <button class="chip active" data-cat="all" id="chipAll">ALL (45)</button>
+    <button class="chip" data-cat="breaking" id="chipBreaking">🔴 BREAKING (10)</button>
+    <button class="chip" data-cat="india" id="chipIndia">🇮🇳 INDIA (5)</button>
+    <button class="chip" data-cat="finance" id="chipFinance">📊 FINANCE (10)</button>
+    <button class="chip" data-cat="crypto" id="chipCrypto">🪙 CRYPTO (10)</button>
+    <button class="chip" data-cat="viral" id="chipViral">🔥 VIRAL (10)</button>
+  </nav>
+  <main class="feed-container" id="feedContainer">
+    <div class="loading-state">
+      <div class="spinner-3d"></div>
+      <p id="loadingText">Synthesizing briefing...</p>
+    </div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
