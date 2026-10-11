@@ -1,9 +1,9 @@
 {
-  "id": "newscrux-clean-v1",
+  "id": "newscrux-final-app",
   "name": "News Crux",
-  "short_name": "News Crux",
+  "short_name": "Crux",
   "description": "Daily 45-point bilingual news brief.",
-  "start_url": "./?install=clean",
+  "start_url": "./?app=standalone",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
