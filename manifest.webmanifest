@@ -1,21 +1,15 @@
 {
-  "id": "news-crux-v3",
+  "id": "newscrux-clean-v1",
   "name": "News Crux",
-  "short_name": "Crux",
+  "short_name": "News Crux",
   "description": "Daily 45-point bilingual news brief.",
-  "start_url": "./?v=3",
+  "start_url": "./?install=clean",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
