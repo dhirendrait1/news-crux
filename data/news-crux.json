@@ -1,25 +1,25 @@
 {
-  "edition": "morning",
-  "timestamp": "2026-10-27T06:46:53.542129+05:30",
+  "edition": "evening",
+  "timestamp": "2026-10-27T17:31:33.766509+05:30",
   "en": {
     "breaking": [
-      "1. Lula wins fourth term in dramatic Brazil election comeback",
-      "2. Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "3. Trump administration illegally fired James Comey's daughter, judge rules",
-      "4. Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "5. Catholic bishops apologise for 'exploited' Trump meeting",
-      "6. US Marine indicted for murder and robbery of woman in Japan",
-      "7. Venezuelan opposition leader María Machado returns after months in exile",
-      "8. 'Maxxing' selected as Dictionary.com word of the year",
-      "9. Algeria to send troops to Niger in first foreign deployment since 1973",
-      "10. Nurse killed in attack while responding to Ebola alert in DR Congo"
+      "1. Turnout so far highest in decades as Israelis vote in pivotal election",
+      "2. Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "3. Truce begins in Ukraine city where residents ate weeds to survive",
+      "4. Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "5. Ex-FBI chief James Comey faces federal charges for third time",
+      "6. Jay-Z to perform at Super Bowl half-time show",
+      "7. Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+      "8. Netherlands makes U-turn over Eurovision return",
+      "9. Meghan to co-host Junior MasterChef Australia",
+      "10. 'Maxxing' selected as Dictionary.com word of the year"
     ],
     "india": [
-      "1. Results of Karnataka Legislative Council polls to be announced today",
-      "2. SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
-      "3. On Accession Day, Mehbooba reminds Centre of promises, says ‘trust broken’",
-      "4. A.P., Odisha on alert as cyclone ‘Arnab’ nears land | LIVE",
-      "5. Ruling NC to reshuffle, expand J&K Cabinet on October 27; ally Congress to stay away"
+      "1. AI can strengthen parliamentary processes, citizen participation: Om Birla",
+      "2. Supreme Court seeks government response on pleas challenging Vande Mataram as a ‘divisive religious war song’",
+      "3. Cyclone ‘Arnab’ LIVE updates | Storm 170 km from Visakhapatnam; landfall near Yanam; Nepal on high alert",
+      "4. 17 remand prisoners escape from sub-jail in Theni district; 13 apprehended so far",
+      "5. BRICS Forum adopts joint declaration; condemns Pahalgam attack, seeks UNSC reforms"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -34,49 +34,49 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "2. NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "3. OCC calls on community banks to enter the stablecoin payments market",
-      "4. South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "5. Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "6. AI giant Anthropic files for blockbuster IPO",
-      "7. A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "8. Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "9. Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "10. Calpers pulls back from big tech as AI jitters deepen neocloud sell-off"
+      "1. Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "2. Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+      "3. Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "4. Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "5. Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "6. Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "7. Now is the time to accumulate bitcoin, Galaxy says",
+      "8. An AI label alone no longer wins lenders, JPMorgan says",
+      "9. Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "10. Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders"
     ],
     "viral": [
-      "1. Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "2. Databricks co-founder shares his secrets for winning big enterprise customers",
-      "3. Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "4. Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "5. Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "6. This startup’s self-driving excavators help dig up $600M in new funding",
-      "7. Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "8. SpaceX locks in $40B GPU financing deal with Apollo",
-      "9. Microsoft offers buyouts to around 60,000 employees",
-      "10. Anthropic officially files for its public debut"
+      "1. Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "2. X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "3. How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "4. Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "5. Databricks co-founder shares his secrets for winning big enterprise customers",
+      "6. Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "7. Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "8. Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "9. This startup’s self-driving excavators help dig up $600M in new funding",
+      "10. Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Lula wins fourth term in dramatic Brazil election comeback",
-      "2. Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "3. Trump administration illegally fired James Comey's daughter, judge rules",
-      "4. Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "5. Catholic bishops apologise for 'exploited' Trump meeting",
-      "6. US Marine indicted for murder and robbery of woman in Japan",
-      "7. Venezuelan opposition leader María Machado returns after months in exile",
-      "8. 'Maxxing' selected as Dictionary.com word of the year",
-      "9. Algeria to send troops to Niger in first foreign deployment since 1973",
-      "10. Nurse killed in attack while responding to Ebola alert in DR Congo"
+      "1. Turnout so far highest in decades as Israelis vote in pivotal election",
+      "2. Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "3. Truce begins in Ukraine city where residents ate weeds to survive",
+      "4. Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "5. Ex-FBI chief James Comey faces federal charges for third time",
+      "6. Jay-Z to perform at Super Bowl half-time show",
+      "7. Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+      "8. Netherlands makes U-turn over Eurovision return",
+      "9. Meghan to co-host Junior MasterChef Australia",
+      "10. 'Maxxing' selected as Dictionary.com word of the year"
     ],
     "india": [
-      "1. Results of Karnataka Legislative Council polls to be announced today",
-      "2. SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
-      "3. On Accession Day, Mehbooba reminds Centre of promises, says ‘trust broken’",
-      "4. A.P., Odisha on alert as cyclone ‘Arnab’ nears land | LIVE",
-      "5. Ruling NC to reshuffle, expand J&K Cabinet on October 27; ally Congress to stay away"
+      "1. AI can strengthen parliamentary processes, citizen participation: Om Birla",
+      "2. Supreme Court seeks government response on pleas challenging Vande Mataram as a ‘divisive religious war song’",
+      "3. Cyclone ‘Arnab’ LIVE updates | Storm 170 km from Visakhapatnam; landfall near Yanam; Nepal on high alert",
+      "4. 17 remand prisoners escape from sub-jail in Theni district; 13 apprehended so far",
+      "5. BRICS Forum adopts joint declaration; condemns Pahalgam attack, seeks UNSC reforms"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -91,28 +91,28 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "2. NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "3. OCC calls on community banks to enter the stablecoin payments market",
-      "4. South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "5. Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "6. AI giant Anthropic files for blockbuster IPO",
-      "7. A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "8. Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "9. Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "10. Calpers pulls back from big tech as AI jitters deepen neocloud sell-off"
+      "1. Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "2. Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+      "3. Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "4. Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "5. Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "6. Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "7. Now is the time to accumulate bitcoin, Galaxy says",
+      "8. An AI label alone no longer wins lenders, JPMorgan says",
+      "9. Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "10. Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders"
     ],
     "viral": [
-      "1. Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "2. Databricks co-founder shares his secrets for winning big enterprise customers",
-      "3. Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "4. Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "5. Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "6. This startup’s self-driving excavators help dig up $600M in new funding",
-      "7. Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "8. SpaceX locks in $40B GPU financing deal with Apollo",
-      "9. Microsoft offers buyouts to around 60,000 employees",
-      "10. Anthropic officially files for its public debut"
+      "1. Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "2. X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "3. How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "4. Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "5. Databricks co-founder shares his secrets for winning big enterprise customers",
+      "6. Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "7. Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "8. Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "9. This startup’s self-driving excavators help dig up $600M in new funding",
+      "10. Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
     ]
   }
 }
