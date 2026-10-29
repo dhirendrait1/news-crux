@@ -1,25 +1,25 @@
 {
-  "edition": "morning",
-  "timestamp": "2026-10-29T06:59:09.613240+05:30",
+  "edition": "evening",
+  "timestamp": "2026-10-29T17:38:56.826431+05:30",
   "en": {
     "breaking": [
-      "1. High-speed train crash kills at least 68 people in Spain",
-      "2. Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "3. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "4. Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "5. How could Israel break election deadlock? Here are four scenarios",
-      "6. Girl seriously injured in wolf attack at German wildlife park",
-      "7. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "8. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "9. Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "10. Tanzania celebrates first natural gas discovery in more than 10 years"
+      "1. Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "2. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "3. Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "4. Carney to push for closer ties at Canada-EU summit in Montreal",
+      "5. Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "6. Details of thousands of US immigration agents leaked in major hack",
+      "7. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "8. Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "9. El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "10. Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss"
     ],
     "india": [
-      "1. In setback to BJP, Congress wins Nagpur MLC seat",
-      "2. Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin",
-      "3. Cabinet approves 3% hike in dearness allowance for central government employees",
-      "4. Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
-      "5. Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works"
+      "1. Telangana artistes to raise awareness on El Nino impact, precautionary measures",
+      "2. Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
+      "3. Trio gets life sentence for cow slaughter in Gujarat, court cites Manusmriti on cow’s significance",
+      "4. Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+      "5. Cases against ex-DMK Ministers based on complaints and evidence, not political vendetta: Law Minister"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -34,16 +34,16 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "2. CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-      "3. Crypto isn’t a partisan fight, proven by data",
-      "4. Fed leaves interest rates unchanged, as expected",
-      "5. Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-      "6. Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-      "7. Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "8. JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-      "9. Dissent and more: 3 things to watch for at the Fed meeting",
-      "10. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments"
+      "1. As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+      "2. Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+      "3. NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+      "4. Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+      "5. Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+      "6. Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+      "7. Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "8. Bermuda taps WalletConnect to advance its onchain economy plan",
+      "9. Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "10. The chart bitcoin traders should be paying attention to"
     ],
     "viral": [
       "1. Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -60,23 +60,23 @@
   },
   "hi": {
     "breaking": [
-      "1. High-speed train crash kills at least 68 people in Spain",
-      "2. Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "3. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "4. Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "5. How could Israel break election deadlock? Here are four scenarios",
-      "6. Girl seriously injured in wolf attack at German wildlife park",
-      "7. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "8. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "9. Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "10. Tanzania celebrates first natural gas discovery in more than 10 years"
+      "1. Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "2. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "3. Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "4. Carney to push for closer ties at Canada-EU summit in Montreal",
+      "5. Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "6. Details of thousands of US immigration agents leaked in major hack",
+      "7. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "8. Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "9. El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "10. Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss"
     ],
     "india": [
-      "1. In setback to BJP, Congress wins Nagpur MLC seat",
-      "2. Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin",
-      "3. Cabinet approves 3% hike in dearness allowance for central government employees",
-      "4. Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
-      "5. Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works"
+      "1. Telangana artistes to raise awareness on El Nino impact, precautionary measures",
+      "2. Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
+      "3. Trio gets life sentence for cow slaughter in Gujarat, court cites Manusmriti on cow’s significance",
+      "4. Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+      "5. Cases against ex-DMK Ministers based on complaints and evidence, not political vendetta: Law Minister"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -91,16 +91,16 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "2. CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-      "3. Crypto isn’t a partisan fight, proven by data",
-      "4. Fed leaves interest rates unchanged, as expected",
-      "5. Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-      "6. Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-      "7. Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "8. JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-      "9. Dissent and more: 3 things to watch for at the Fed meeting",
-      "10. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments"
+      "1. As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+      "2. Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+      "3. NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+      "4. Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+      "5. Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+      "6. Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
+      "7. Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "8. Bermuda taps WalletConnect to advance its onchain economy plan",
+      "9. Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "10. The chart bitcoin traders should be paying attention to"
     ],
     "viral": [
       "1. Upwind raises $400M after walking away from Datadog acquisition offer",
