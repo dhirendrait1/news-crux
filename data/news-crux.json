@@ -1,25 +1,25 @@
 {
-  "edition": "evening",
-  "timestamp": "2026-10-28T17:39:07.643842+05:30",
+  "edition": "morning",
+  "timestamp": "2026-10-29T06:59:09.613240+05:30",
   "en": {
     "breaking": [
-      "1. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "2. Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "3. Tanzania celebrates first natural gas discovery in more than 10 years",
-      "4. Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
-      "5. Ceasefire extended across Ukraine's Kherson region, officials say",
-      "6. King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "7. Dutch zookeeper dies after being mauled by leopard",
-      "8. Norway and Finland leaders hold rare call with Putin",
-      "9. Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "10. Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case"
+      "1. High-speed train crash kills at least 68 people in Spain",
+      "2. Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "3. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "4. Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "5. How could Israel break election deadlock? Here are four scenarios",
+      "6. Girl seriously injured in wolf attack at German wildlife park",
+      "7. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "8. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "9. Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "10. Tanzania celebrates first natural gas discovery in more than 10 years"
     ],
     "india": [
-      "1. Man booked after minor son dies in scooter accident in Koyilandy",
-      "2. Nirmala Sitharaman slams Rahul Gandhi over Tata comment, says Congress leader spreading distrust, toxicity",
-      "3. M.P. hooch deaths: prime accused used AI to help brew liquor at home, say police",
-      "4. Tamil Nadu govt. accepts proposal, in principle, for new buildings for Madurai Bench of Madras HC: A-G",
-      "5. Cyclone ‘Arnab’ LIVE updates | Three killed in Andhra after landfall near Narsapur; storm weakens"
+      "1. In setback to BJP, Congress wins Nagpur MLC seat",
+      "2. Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin",
+      "3. Cabinet approves 3% hike in dearness allowance for central government employees",
+      "4. Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+      "5. Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -34,49 +34,49 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Dissent and more: 3 things to watch for at the Fed meeting",
-      "2. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-      "3. Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "4. Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
-      "5. Google to preview crypto custody security system as AI threats grow",
-      "6. Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "7. Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "8. Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "9. Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "10. Securitize adds Stellar blockchain as institutional tokenization gathers steam"
+      "1. Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "2. CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "3. Crypto isn’t a partisan fight, proven by data",
+      "4. Fed leaves interest rates unchanged, as expected",
+      "5. Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "6. Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "7. Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "8. JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+      "9. Dissent and more: 3 things to watch for at the Fed meeting",
+      "10. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments"
     ],
     "viral": [
-      "1. Jio shares surge 21% in market debut after blockbuster India IPO",
-      "2. VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "3. Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "4. The data center boom has an upside: innovation for the US grid",
-      "5. Guidewire buys Hyperexponential for $1.7B in cash",
-      "6. From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-      "7. GM is embracing hybrids now",
-      "8. Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "9. Who’s really in charge at Anthropic after the IPO?",
-      "10. Discord is making its public communities more searchable, and people have concerns"
+      "1. Upwind raises $400M after walking away from Datadog acquisition offer",
+      "2. Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "3. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "4. Google expands AI Search ads globally as core ad growth slows",
+      "5. Microsoft recorded $10 billion in revenue from OpenAI",
+      "6. Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "7. Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "8. Anthropic just launched tools to show companies what their AI spending is buying",
+      "9. Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "10. Apple launches its new touchscreen MacBook Pro"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "2. Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "3. Tanzania celebrates first natural gas discovery in more than 10 years",
-      "4. Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
-      "5. Ceasefire extended across Ukraine's Kherson region, officials say",
-      "6. King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "7. Dutch zookeeper dies after being mauled by leopard",
-      "8. Norway and Finland leaders hold rare call with Putin",
-      "9. Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "10. Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case"
+      "1. High-speed train crash kills at least 68 people in Spain",
+      "2. Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "3. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "4. Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "5. How could Israel break election deadlock? Here are four scenarios",
+      "6. Girl seriously injured in wolf attack at German wildlife park",
+      "7. Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "8. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "9. Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "10. Tanzania celebrates first natural gas discovery in more than 10 years"
     ],
     "india": [
-      "1. Man booked after minor son dies in scooter accident in Koyilandy",
-      "2. Nirmala Sitharaman slams Rahul Gandhi over Tata comment, says Congress leader spreading distrust, toxicity",
-      "3. M.P. hooch deaths: prime accused used AI to help brew liquor at home, say police",
-      "4. Tamil Nadu govt. accepts proposal, in principle, for new buildings for Madurai Bench of Madras HC: A-G",
-      "5. Cyclone ‘Arnab’ LIVE updates | Three killed in Andhra after landfall near Narsapur; storm weakens"
+      "1. In setback to BJP, Congress wins Nagpur MLC seat",
+      "2. Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin",
+      "3. Cabinet approves 3% hike in dearness allowance for central government employees",
+      "4. Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+      "5. Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -91,28 +91,28 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Dissent and more: 3 things to watch for at the Fed meeting",
-      "2. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-      "3. Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "4. Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
-      "5. Google to preview crypto custody security system as AI threats grow",
-      "6. Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "7. Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "8. Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "9. Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "10. Securitize adds Stellar blockchain as institutional tokenization gathers steam"
+      "1. Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "2. CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "3. Crypto isn’t a partisan fight, proven by data",
+      "4. Fed leaves interest rates unchanged, as expected",
+      "5. Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "6. Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "7. Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "8. JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+      "9. Dissent and more: 3 things to watch for at the Fed meeting",
+      "10. XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments"
     ],
     "viral": [
-      "1. Jio shares surge 21% in market debut after blockbuster India IPO",
-      "2. VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "3. Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "4. The data center boom has an upside: innovation for the US grid",
-      "5. Guidewire buys Hyperexponential for $1.7B in cash",
-      "6. From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-      "7. GM is embracing hybrids now",
-      "8. Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "9. Who’s really in charge at Anthropic after the IPO?",
-      "10. Discord is making its public communities more searchable, and people have concerns"
+      "1. Upwind raises $400M after walking away from Datadog acquisition offer",
+      "2. Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "3. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "4. Google expands AI Search ads globally as core ad growth slows",
+      "5. Microsoft recorded $10 billion in revenue from OpenAI",
+      "6. Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "7. Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "8. Anthropic just launched tools to show companies what their AI spending is buying",
+      "9. Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "10. Apple launches its new touchscreen MacBook Pro"
     ]
   }
 }
