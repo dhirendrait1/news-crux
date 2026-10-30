@@ -1,25 +1,25 @@
 {
-  "edition": "evening",
-  "timestamp": "2026-10-29T17:38:56.826431+05:30",
+  "edition": "morning",
+  "timestamp": "2026-10-30T07:01:27.359717+05:30",
   "en": {
     "breaking": [
-      "1. Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "2. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "3. Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "4. Carney to push for closer ties at Canada-EU summit in Montreal",
-      "5. Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "6. Details of thousands of US immigration agents leaked in major hack",
-      "7. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "8. Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "9. El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "10. Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss"
+      "1. Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "2. Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "3. 'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "4. Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "5. Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "6. Philippine police obtain warrant to search Thomas Markle's devices",
+      "7. EU chief lays out vision for new Canada partnership at Montreal summit",
+      "8. Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "9. Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "10. Details of thousands of US immigration agents leaked in major hack"
     ],
     "india": [
-      "1. Telangana artistes to raise awareness on El Nino impact, precautionary measures",
-      "2. Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
-      "3. Trio gets life sentence for cow slaughter in Gujarat, court cites Manusmriti on cow’s significance",
-      "4. Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
-      "5. Cases against ex-DMK Ministers based on complaints and evidence, not political vendetta: Law Minister"
+      "1. In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+      "2. Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+      "3. Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
+      "4. District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
+      "5. Former West Bengal minister Indranil Sen sent to 13 days police custody"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -34,49 +34,49 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-      "2. Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-      "3. NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "4. Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
-      "5. Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-      "6. Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
-      "7. Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "8. Bermuda taps WalletConnect to advance its onchain economy plan",
-      "9. Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-      "10. The chart bitcoin traders should be paying attention to"
+      "1. Binance hack drained wallets backing customer assets, reserve data shows",
+      "2. Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "3. Polymarket suspends trading after third-party breach leads to user losses",
+      "4. Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "5. KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "6. From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "7. Crypto exchange HTX exits the UK after settling with the FCA",
+      "8. Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "9. Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "10. Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers"
     ],
     "viral": [
-      "1. Upwind raises $400M after walking away from Datadog acquisition offer",
-      "2. Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "3. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "4. Google expands AI Search ads globally as core ad growth slows",
-      "5. Microsoft recorded $10 billion in revenue from OpenAI",
-      "6. Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "7. Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "8. Anthropic just launched tools to show companies what their AI spending is buying",
-      "9. Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "10. Apple launches its new touchscreen MacBook Pro"
+      "1. You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "2. Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "3. AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "4. Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "5. Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "6. Amazon reported booming cloud revenue but otherwise missed expectations",
+      "7. GM reaches $220M settlement over selling drivers’ private data",
+      "8. Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "9. As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "10. Rivian expands joint venture with VW to include AI assistant"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "2. Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "3. Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "4. Carney to push for closer ties at Canada-EU summit in Montreal",
-      "5. Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "6. Details of thousands of US immigration agents leaked in major hack",
-      "7. Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "8. Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "9. El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "10. Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss"
+      "1. Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "2. Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "3. 'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "4. Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "5. Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "6. Philippine police obtain warrant to search Thomas Markle's devices",
+      "7. EU chief lays out vision for new Canada partnership at Montreal summit",
+      "8. Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "9. Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "10. Details of thousands of US immigration agents leaked in major hack"
     ],
     "india": [
-      "1. Telangana artistes to raise awareness on El Nino impact, precautionary measures",
-      "2. Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
-      "3. Trio gets life sentence for cow slaughter in Gujarat, court cites Manusmriti on cow’s significance",
-      "4. Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
-      "5. Cases against ex-DMK Ministers based on complaints and evidence, not political vendetta: Law Minister"
+      "1. In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+      "2. Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+      "3. Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
+      "4. District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
+      "5. Former West Bengal minister Indranil Sen sent to 13 days police custody"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -91,28 +91,28 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-      "2. Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-      "3. NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "4. Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
-      "5. Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-      "6. Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
-      "7. Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "8. Bermuda taps WalletConnect to advance its onchain economy plan",
-      "9. Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-      "10. The chart bitcoin traders should be paying attention to"
+      "1. Binance hack drained wallets backing customer assets, reserve data shows",
+      "2. Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "3. Polymarket suspends trading after third-party breach leads to user losses",
+      "4. Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "5. KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "6. From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "7. Crypto exchange HTX exits the UK after settling with the FCA",
+      "8. Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "9. Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "10. Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers"
     ],
     "viral": [
-      "1. Upwind raises $400M after walking away from Datadog acquisition offer",
-      "2. Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "3. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "4. Google expands AI Search ads globally as core ad growth slows",
-      "5. Microsoft recorded $10 billion in revenue from OpenAI",
-      "6. Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "7. Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "8. Anthropic just launched tools to show companies what their AI spending is buying",
-      "9. Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "10. Apple launches its new touchscreen MacBook Pro"
+      "1. You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "2. Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "3. AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "4. Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "5. Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "6. Amazon reported booming cloud revenue but otherwise missed expectations",
+      "7. GM reaches $220M settlement over selling drivers’ private data",
+      "8. Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "9. As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "10. Rivian expands joint venture with VW to include AI assistant"
     ]
   }
 }
