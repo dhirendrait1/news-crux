@@ -1,25 +1,25 @@
 {
-  "edition": "evening",
-  "timestamp": "2026-10-31T17:29:09.868595+05:30",
+  "edition": "morning",
+  "timestamp": "2026-11-01T07:08:40.332605+05:30",
   "en": {
     "breaking": [
-      "1. Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
-      "2. US approves sale of 500 Patriot missiles to Ukraine",
-      "3. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "4. Police deployed during stand-off over control of top Poland court",
-      "5. Spain train disaster clouds Sánchez chances of re-election",
-      "6. G20 'family photo' cancelled after protests over presence of Russian minister",
-      "7. Global nature talks reach deal but money remains an issue",
-      "8. They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "9. The fight to save Canadian town threatened by Trump's tariffs",
-      "10. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+      "1. 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "2. Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "3. Thousands demonstrate in Paris as protests spread across Europe",
+      "4. Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "5. India's opposition set to hold mega rally seeking election chief's resignation",
+      "6. How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "7. Ethiopian PM puts ministers through military training",
+      "8. More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "9. Spain train disaster clouds Sánchez chances of re-election",
+      "10. Global nature talks reach deal but money remains an issue"
     ],
     "india": [
-      "1. Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity' | LIVE",
-      "2. DA for Tamil Nadu government employees increases from 60% to 63%",
-      "3. Akhilesh Yadav questions Amit Shah over crimes against women, Dalits in U.P.",
-      "4. IIT student death: Sahil Wakode’s parents move Bombay HC seeking CBI, SIT probe",
-      "5. Heavy pesticide use puts Keralam’s cardamom ecosystem under pressure"
+      "1. INDIA Bloc to hold mega rally against CEC, SIR today; leaders, supporters begin arriving in Delhi | LIVE",
+      "2. Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
+      "3. In Punjab, the highway to 2027",
+      "4. IIT Bombay student death: Parents seek CBI investigation",
+      "5. Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -34,49 +34,49 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "2. OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "3. Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "4. Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "5. Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-      "6. Binance arranges $6.34 billion to cover losses from record crypto hack",
-      "7. Here's how big bitcoin traders responded after the Binance hack hit",
-      "8. Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-      "9. Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-      "10. Strategy CFO Andrew Kang resigns as company posts record operating profit"
+      "1. FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "2. Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "3. A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "4. Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "5. Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "6. Institutions embrace crypto staking despite shrinking yields",
+      "7. Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "8. As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "9. 18 years in, what has Bitcoin truly done?",
+      "10. A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears"
     ],
     "viral": [
-      "1. Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "2. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "3. Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "4. Ollie, a privacy-focused AI assistant, is shutting down",
-      "5. Intel’s stock crashes, knocking $12B from government’s stake",
-      "6. Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "7. Applebee’s exposed customers’ personal data after leaving database password in app",
-      "8. Last-minute Halloween costumes for tech nerds",
-      "9. Cracks are emerging in the AI spending boom",
-      "10. AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal"
+      "1. Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "2. 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "3. Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "4. OpenAI reportedly lowers funding target for new round",
+      "5. From restaurant guides to payments, here’s how TikTok is building a super app",
+      "6. I took two iPhones on vacation. The Duo won me over.",
+      "7. Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "8. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "9. Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "10. Ollie, a privacy-focused AI assistant, is shutting down"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
-      "2. US approves sale of 500 Patriot missiles to Ukraine",
-      "3. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "4. Police deployed during stand-off over control of top Poland court",
-      "5. Spain train disaster clouds Sánchez chances of re-election",
-      "6. G20 'family photo' cancelled after protests over presence of Russian minister",
-      "7. Global nature talks reach deal but money remains an issue",
-      "8. They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "9. The fight to save Canadian town threatened by Trump's tariffs",
-      "10. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+      "1. 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "2. Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "3. Thousands demonstrate in Paris as protests spread across Europe",
+      "4. Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "5. India's opposition set to hold mega rally seeking election chief's resignation",
+      "6. How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "7. Ethiopian PM puts ministers through military training",
+      "8. More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "9. Spain train disaster clouds Sánchez chances of re-election",
+      "10. Global nature talks reach deal but money remains an issue"
     ],
     "india": [
-      "1. Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity' | LIVE",
-      "2. DA for Tamil Nadu government employees increases from 60% to 63%",
-      "3. Akhilesh Yadav questions Amit Shah over crimes against women, Dalits in U.P.",
-      "4. IIT student death: Sahil Wakode’s parents move Bombay HC seeking CBI, SIT probe",
-      "5. Heavy pesticide use puts Keralam’s cardamom ecosystem under pressure"
+      "1. INDIA Bloc to hold mega rally against CEC, SIR today; leaders, supporters begin arriving in Delhi | LIVE",
+      "2. Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
+      "3. In Punjab, the highway to 2027",
+      "4. IIT Bombay student death: Parents seek CBI investigation",
+      "5. Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements"
     ],
     "finance": [
       "1. Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
@@ -91,28 +91,28 @@
       "10. Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding"
     ],
     "crypto": [
-      "1. Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "2. OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "3. Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "4. Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "5. Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-      "6. Binance arranges $6.34 billion to cover losses from record crypto hack",
-      "7. Here's how big bitcoin traders responded after the Binance hack hit",
-      "8. Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-      "9. Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-      "10. Strategy CFO Andrew Kang resigns as company posts record operating profit"
+      "1. FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "2. Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "3. A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "4. Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "5. Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "6. Institutions embrace crypto staking despite shrinking yields",
+      "7. Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "8. As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "9. 18 years in, what has Bitcoin truly done?",
+      "10. A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears"
     ],
     "viral": [
-      "1. Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "2. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "3. Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "4. Ollie, a privacy-focused AI assistant, is shutting down",
-      "5. Intel’s stock crashes, knocking $12B from government’s stake",
-      "6. Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "7. Applebee’s exposed customers’ personal data after leaving database password in app",
-      "8. Last-minute Halloween costumes for tech nerds",
-      "9. Cracks are emerging in the AI spending boom",
-      "10. AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal"
+      "1. Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "2. 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "3. Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "4. OpenAI reportedly lowers funding target for new round",
+      "5. From restaurant guides to payments, here’s how TikTok is building a super app",
+      "6. I took two iPhones on vacation. The Duo won me over.",
+      "7. Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "8. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "9. Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "10. Ollie, a privacy-focused AI assistant, is shutting down"
     ]
   }
 }
