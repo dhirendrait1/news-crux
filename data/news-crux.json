@@ -1,25 +1,25 @@
 {
-  "edition": "morning",
-  "timestamp": "2026-11-06T07:12:28.497093+05:30",
+  "edition": "evening",
+  "timestamp": "2026-11-06T17:45:05.479661+05:30",
   "en": {
     "breaking": [
-      "1. Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "2. Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "3. Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "4. Hoax bomb threats target European airlines and airports for second time in a week",
-      "5. California governor commutes sentences for state's 548 death row inmates",
-      "6. French protests see numbers surge as unions join strikes over high cost of living",
-      "7. Paraguay President Santiago Peña resigns after bank collapse",
-      "8. Eight killed in series of shootings in western Turkey",
-      "9. Who could be behind hoax bomb threats to European air travel?",
-      "10. Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials"
+      "1. White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "2. Trump signs order to preserve Oval Office as national monument",
+      "3. Two dead after bus crashes in France, officials say",
+      "4. Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "5. Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "6. Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "7. Elon Musk appears to signal the end of the road for Cybertruck",
+      "8. Somalia's top court rejects president's term extension amid political crisis",
+      "9. Major construction ongoing near Iran missile bases, satellite images suggest",
+      "10. California governor commutes sentences for state's 548 death row inmates"
     ],
     "india": [
-      "1. Will do something for Singur, West Bengal CM signals fresh industrial push",
-      "2. J&K’s health sector receives a shot in arm as Union Minister J.P. Nadda sets AIIMS deadline for March",
-      "3. Violence mars third phase of Rajasthan panchayat elections",
-      "4. From ghee masala dosa to Mysore pak, Bengaluru’s favourite foods set to cost more",
-      "5. The silver hands of Hupari"
+      "1. Swift grievance redressal system for entrepreneurs and investors put in place on K-SWIFT portal",
+      "2. After milk price hike, Karnataka commuters face higher bus fares",
+      "3. Social media companies must act proactively on child safety, grievances, algorithmic transparency: Vaishnaw",
+      "4. Punjab farm fire cases reach 2,787, with 586 incidents from Tarn Taran",
+      "5. Robbery gang targets cars parked on NH-65 during night; Telangana’s Sangareddy police arrest three"
     ],
     "finance": [
       "1. Nasdaq drops into correction territory — here’s what typically happens next",
@@ -34,49 +34,49 @@
       "10. Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch"
     ],
     "crypto": [
-      "1. Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "2. U.S. Justice Department assembles force to shield against foreign AI threats",
-      "3. Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "4. What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-      "5. Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "6. Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-      "7. Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "8. Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-      "9. Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "10. Binance cuts SignalPlus access after security warning, urges users to check accounts"
+      "1. Live updates: Nasdaq 100 futures rally points to stock market respite",
+      "2. Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "3. Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "4. Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "5. Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "6. Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "7. Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "8. Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "9. U.S. Justice Department assembles force to shield against foreign AI threats",
+      "10. Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower"
     ],
     "viral": [
-      "1. The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "2. Meta, Google, and TikTok sue California AG over teen social media law",
-      "3. Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "4. Serve Robotics launches new business to become the AWS for robots",
-      "5. Meta says US users can now video chat with their Muse AI avatar",
-      "6. Meta warns that election backlash against data centers could make AI expansion harder",
-      "7. OpenAI released a new cybersecurity model. Is that enough?",
-      "8. US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "9. OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "10. The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund"
+      "1. Tesla will stop making the Cybertruck in 2027",
+      "2. At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "3. Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "4. The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "5. Meta, Google, and TikTok sue California AG over teen social media law",
+      "6. Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "7. Serve Robotics launches new business to become the AWS for robots",
+      "8. Meta says US users can now video chat with their Muse AI avatar",
+      "9. Meta warns that election backlash against data centers could make AI expansion harder",
+      "10. OpenAI released a new cybersecurity model. Is that enough?"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "2. Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "3. Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "4. Hoax bomb threats target European airlines and airports for second time in a week",
-      "5. California governor commutes sentences for state's 548 death row inmates",
-      "6. French protests see numbers surge as unions join strikes over high cost of living",
-      "7. Paraguay President Santiago Peña resigns after bank collapse",
-      "8. Eight killed in series of shootings in western Turkey",
-      "9. Who could be behind hoax bomb threats to European air travel?",
-      "10. Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials"
+      "1. White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "2. Trump signs order to preserve Oval Office as national monument",
+      "3. Two dead after bus crashes in France, officials say",
+      "4. Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "5. Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "6. Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "7. Elon Musk appears to signal the end of the road for Cybertruck",
+      "8. Somalia's top court rejects president's term extension amid political crisis",
+      "9. Major construction ongoing near Iran missile bases, satellite images suggest",
+      "10. California governor commutes sentences for state's 548 death row inmates"
     ],
     "india": [
-      "1. Will do something for Singur, West Bengal CM signals fresh industrial push",
-      "2. J&K’s health sector receives a shot in arm as Union Minister J.P. Nadda sets AIIMS deadline for March",
-      "3. Violence mars third phase of Rajasthan panchayat elections",
-      "4. From ghee masala dosa to Mysore pak, Bengaluru’s favourite foods set to cost more",
-      "5. The silver hands of Hupari"
+      "1. Swift grievance redressal system for entrepreneurs and investors put in place on K-SWIFT portal",
+      "2. After milk price hike, Karnataka commuters face higher bus fares",
+      "3. Social media companies must act proactively on child safety, grievances, algorithmic transparency: Vaishnaw",
+      "4. Punjab farm fire cases reach 2,787, with 586 incidents from Tarn Taran",
+      "5. Robbery gang targets cars parked on NH-65 during night; Telangana’s Sangareddy police arrest three"
     ],
     "finance": [
       "1. Nasdaq drops into correction territory — here’s what typically happens next",
@@ -91,28 +91,28 @@
       "10. Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch"
     ],
     "crypto": [
-      "1. Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "2. U.S. Justice Department assembles force to shield against foreign AI threats",
-      "3. Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "4. What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-      "5. Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "6. Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-      "7. Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "8. Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-      "9. Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "10. Binance cuts SignalPlus access after security warning, urges users to check accounts"
+      "1. Live updates: Nasdaq 100 futures rally points to stock market respite",
+      "2. Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "3. Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "4. Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "5. Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "6. Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "7. Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "8. Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "9. U.S. Justice Department assembles force to shield against foreign AI threats",
+      "10. Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower"
     ],
     "viral": [
-      "1. The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "2. Meta, Google, and TikTok sue California AG over teen social media law",
-      "3. Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "4. Serve Robotics launches new business to become the AWS for robots",
-      "5. Meta says US users can now video chat with their Muse AI avatar",
-      "6. Meta warns that election backlash against data centers could make AI expansion harder",
-      "7. OpenAI released a new cybersecurity model. Is that enough?",
-      "8. US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "9. OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "10. The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund"
+      "1. Tesla will stop making the Cybertruck in 2027",
+      "2. At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "3. Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "4. The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "5. Meta, Google, and TikTok sue California AG over teen social media law",
+      "6. Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "7. Serve Robotics launches new business to become the AWS for robots",
+      "8. Meta says US users can now video chat with their Muse AI avatar",
+      "9. Meta warns that election backlash against data centers could make AI expansion harder",
+      "10. OpenAI released a new cybersecurity model. Is that enough?"
     ]
   }
 }
