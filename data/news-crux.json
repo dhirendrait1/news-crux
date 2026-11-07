@@ -1,25 +1,25 @@
 {
-  "edition": "morning",
-  "timestamp": "2026-11-07T06:59:49.793801+05:30",
+  "edition": "evening",
+  "timestamp": "2026-11-07T17:33:37.949678+05:30",
   "en": {
     "breaking": [
-      "1. AI stocks climb after trillions wiped from market values",
-      "2. Four midterms takeaways for 2028 White House race",
-      "3. Two dead after bus crashes in France, officials say",
-      "4. New wave of bomb threats hit European airlines",
-      "5. Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "1. With Stephen Miller pick, Trump readies for a battle",
+      "2. Paraguay's president impeached and under house arrest after bank collapse",
+      "3. Pope in 'pretty good health' as he starts Latin America tour",
+      "4. AI stocks climb after trillions wiped from market values",
+      "5. New wave of bomb threats hit European airlines",
       "6. Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "7. Judge blocks construction of Trump's massive arch after federal agency approval",
-      "8. Russian extremist group denies sending hoax bomb threats",
-      "9. Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "10. Dozens of Democrats eyeing 2028 presidential run, says former Obama aide"
+      "7. Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "8. Two dead after bus crashes in France, officials say",
+      "9. Judge blocks construction of Trump's massive arch after federal agency approval",
+      "10. Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations"
     ],
     "india": [
-      "1. Govt. focuses on land for augmenting resources",
-      "2. Zubeen Garg case: Assam CM flags danger to family in threat to besiege his house",
-      "3. Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
-      "4. CPI(M) leader Biman Basu retracts after holding Jyoti Basu responsible for LF government’s industrial policy",
-      "5. West Bengal election is not legally valid: Former CEC S.Y. Quraishi"
+      "1. Uttar Pradesh government hikes DA by 3% for employees",
+      "2. Punjab anti-drug activist Jhota's autopsy conducted at PGIMER, cremation on Nov. 8",
+      "3. T.N. CM Vijay writes to PM Modi expressing concerns over inspection of Union govt. officials regarding Mekedatu dam project",
+      "4. A total of 28 illegal immigrants apprehended, expelled: Assam CM Himanta Biswa Sarma",
+      "5. Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads"
     ],
     "finance": [
       "1. Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -46,37 +46,37 @@
       "10. Greece approves 10% tax on crypto gains and 15% levy on DeFi income"
     ],
     "viral": [
-      "1. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "2. The Duo apps are coming, says Apple",
-      "3. Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "4. Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "5. After the midterms, is the AI industry in for a rough two years?",
-      "6. Pentagon offers battery startup 6K $250M loan to build US factory",
-      "7. Fox completes its $22B acquisition of Roku",
-      "8. Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "9. After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "10. Underdog shows off a 32MB speech model in new demo"
+      "1. Sequoia shutting down its Scouts program marks the end of an era",
+      "2. From the front row to the hot seat — what the midterms mean for Big Tech",
+      "3. Crusoe sells troubled Wyoming data center project to Google",
+      "4. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "5. The Duo apps are coming, says Apple",
+      "6. Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "7. Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "8. After the midterms, is the AI industry in for a rough two years?",
+      "9. Pentagon offers battery startup 6K $250M loan to build US factory",
+      "10. Fox completes its $22B acquisition of Roku"
     ]
   },
   "hi": {
     "breaking": [
-      "1. AI stocks climb after trillions wiped from market values",
-      "2. Four midterms takeaways for 2028 White House race",
-      "3. Two dead after bus crashes in France, officials say",
-      "4. New wave of bomb threats hit European airlines",
-      "5. Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "1. With Stephen Miller pick, Trump readies for a battle",
+      "2. Paraguay's president impeached and under house arrest after bank collapse",
+      "3. Pope in 'pretty good health' as he starts Latin America tour",
+      "4. AI stocks climb after trillions wiped from market values",
+      "5. New wave of bomb threats hit European airlines",
       "6. Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "7. Judge blocks construction of Trump's massive arch after federal agency approval",
-      "8. Russian extremist group denies sending hoax bomb threats",
-      "9. Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "10. Dozens of Democrats eyeing 2028 presidential run, says former Obama aide"
+      "7. Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "8. Two dead after bus crashes in France, officials say",
+      "9. Judge blocks construction of Trump's massive arch after federal agency approval",
+      "10. Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations"
     ],
     "india": [
-      "1. Govt. focuses on land for augmenting resources",
-      "2. Zubeen Garg case: Assam CM flags danger to family in threat to besiege his house",
-      "3. Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
-      "4. CPI(M) leader Biman Basu retracts after holding Jyoti Basu responsible for LF government’s industrial policy",
-      "5. West Bengal election is not legally valid: Former CEC S.Y. Quraishi"
+      "1. Uttar Pradesh government hikes DA by 3% for employees",
+      "2. Punjab anti-drug activist Jhota's autopsy conducted at PGIMER, cremation on Nov. 8",
+      "3. T.N. CM Vijay writes to PM Modi expressing concerns over inspection of Union govt. officials regarding Mekedatu dam project",
+      "4. A total of 28 illegal immigrants apprehended, expelled: Assam CM Himanta Biswa Sarma",
+      "5. Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads"
     ],
     "finance": [
       "1. Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -103,16 +103,16 @@
       "10. Greece approves 10% tax on crypto gains and 15% levy on DeFi income"
     ],
     "viral": [
-      "1. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "2. The Duo apps are coming, says Apple",
-      "3. Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "4. Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "5. After the midterms, is the AI industry in for a rough two years?",
-      "6. Pentagon offers battery startup 6K $250M loan to build US factory",
-      "7. Fox completes its $22B acquisition of Roku",
-      "8. Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "9. After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "10. Underdog shows off a 32MB speech model in new demo"
+      "1. Sequoia shutting down its Scouts program marks the end of an era",
+      "2. From the front row to the hot seat — what the midterms mean for Big Tech",
+      "3. Crusoe sells troubled Wyoming data center project to Google",
+      "4. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "5. The Duo apps are coming, says Apple",
+      "6. Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "7. Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "8. After the midterms, is the AI industry in for a rough two years?",
+      "9. Pentagon offers battery startup 6K $250M loan to build US factory",
+      "10. Fox completes its $22B acquisition of Roku"
     ]
   }
 }
