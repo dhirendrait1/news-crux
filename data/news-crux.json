@@ -1,25 +1,25 @@
 {
-  "edition": "morning",
-  "timestamp": "2026-11-08T07:09:19.812150+05:30",
+  "edition": "evening",
+  "timestamp": "2026-11-08T22:40:53.735492+05:30",
   "en": {
     "breaking": [
       "1. What we know so far after Krakow gun attack",
-      "2. Israel's president tasks opposition leader Eisenkot with forming government",
-      "3. No clear winner after tight New Zealand general election",
-      "4. US offers $20m reward for information about Iran's nuclear programme",
-      "5. Houthis say at least 25 killed in Saudi air strike",
+      "2. Houthis say at least 33 killed in Saudi air strike",
+      "3. 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "4. Israel's president tasks opposition leader Eisenkot with forming government",
+      "5. US offers $20m reward for information about Iran's nuclear programme",
       "6. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "7. With Stephen Miller pick, Trump readies for a battle",
-      "8. Paraguay's former president charged after bank collapse",
-      "9. Pope in 'pretty good health' as he starts Latin America tour",
-      "10. Italian foreign minister says hackers leaked his personal data"
+      "7. Paraguay's former president charged after bank collapse",
+      "8. Pope in 'pretty good health' as he starts Latin America tour",
+      "9. Italian foreign minister says hackers leaked his personal data",
+      "10. Russian strikes wound nine and damage Ukraine's power network ahead of talks"
     ],
     "india": [
-      "1. A bridge between past and present",
-      "2. Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
-      "3. RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
-      "4. 42 days of SRFTI protest; classes suspended till December 11",
-      "5. Presidency University expels student for allegedly defacing Vivekananda poster"
+      "1. P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
+      "2. Revanth celebrates Deepavali with Indiramma house beneficiary",
+      "3. Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
+      "4. UK Hindu family takes legal action after school objects to boy wearing tilak",
+      "5. Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library"
     ],
     "finance": [
       "1. Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -34,49 +34,49 @@
       "10. Blackstone president calls for more equity to fund AI buildout as debt risks mount"
     ],
     "crypto": [
-      "1. Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "2. U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "3. Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "4. Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "5. U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "6. The crypto industry has found new ways to grow. Making money from them is another story",
-      "7. Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "8. U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "9. Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "10. Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close"
+      "1. These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "2. Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "3. U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "4. Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "5. Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "6. U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "7. The crypto industry has found new ways to grow. Making money from them is another story",
+      "8. Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "9. U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "10. Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market"
     ],
     "viral": [
-      "1. After the midterms, things are looking rocky for Elon Musk and data centers",
-      "2. Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "3. Parents want safer phones for kids. These companies are answering the call.",
-      "4. Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "5. Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "6. Sequoia shutting down its Scouts program marks the end of an era",
-      "7. From the front row to the hot seat — what the midterms mean for Big Tech",
-      "8. Crusoe sells troubled Wyoming data center project to Google",
-      "9. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "10. The Duo apps are coming, says Apple"
+      "1. TechCrunch Mobility: The Cybertruck experiment is over",
+      "2. Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "3. After the midterms, things are looking rocky for Elon Musk and data centers",
+      "4. Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "5. Parents want safer phones for kids. These companies are answering the call.",
+      "6. Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "7. Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "8. Sequoia shutting down its Scouts program marks the end of an era",
+      "9. From the front row to the hot seat — what the midterms mean for Big Tech",
+      "10. Crusoe sells troubled Wyoming data center project to Google"
     ]
   },
   "hi": {
     "breaking": [
       "1. What we know so far after Krakow gun attack",
-      "2. Israel's president tasks opposition leader Eisenkot with forming government",
-      "3. No clear winner after tight New Zealand general election",
-      "4. US offers $20m reward for information about Iran's nuclear programme",
-      "5. Houthis say at least 25 killed in Saudi air strike",
+      "2. Houthis say at least 33 killed in Saudi air strike",
+      "3. 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "4. Israel's president tasks opposition leader Eisenkot with forming government",
+      "5. US offers $20m reward for information about Iran's nuclear programme",
       "6. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "7. With Stephen Miller pick, Trump readies for a battle",
-      "8. Paraguay's former president charged after bank collapse",
-      "9. Pope in 'pretty good health' as he starts Latin America tour",
-      "10. Italian foreign minister says hackers leaked his personal data"
+      "7. Paraguay's former president charged after bank collapse",
+      "8. Pope in 'pretty good health' as he starts Latin America tour",
+      "9. Italian foreign minister says hackers leaked his personal data",
+      "10. Russian strikes wound nine and damage Ukraine's power network ahead of talks"
     ],
     "india": [
-      "1. A bridge between past and present",
-      "2. Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
-      "3. RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
-      "4. 42 days of SRFTI protest; classes suspended till December 11",
-      "5. Presidency University expels student for allegedly defacing Vivekananda poster"
+      "1. P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
+      "2. Revanth celebrates Deepavali with Indiramma house beneficiary",
+      "3. Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
+      "4. UK Hindu family takes legal action after school objects to boy wearing tilak",
+      "5. Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library"
     ],
     "finance": [
       "1. Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -91,28 +91,28 @@
       "10. Blackstone president calls for more equity to fund AI buildout as debt risks mount"
     ],
     "crypto": [
-      "1. Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "2. U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "3. Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "4. Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "5. U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "6. The crypto industry has found new ways to grow. Making money from them is another story",
-      "7. Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "8. U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "9. Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "10. Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close"
+      "1. These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "2. Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "3. U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "4. Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "5. Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "6. U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "7. The crypto industry has found new ways to grow. Making money from them is another story",
+      "8. Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "9. U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "10. Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market"
     ],
     "viral": [
-      "1. After the midterms, things are looking rocky for Elon Musk and data centers",
-      "2. Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "3. Parents want safer phones for kids. These companies are answering the call.",
-      "4. Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "5. Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "6. Sequoia shutting down its Scouts program marks the end of an era",
-      "7. From the front row to the hot seat — what the midterms mean for Big Tech",
-      "8. Crusoe sells troubled Wyoming data center project to Google",
-      "9. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "10. The Duo apps are coming, says Apple"
+      "1. TechCrunch Mobility: The Cybertruck experiment is over",
+      "2. Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "3. After the midterms, things are looking rocky for Elon Musk and data centers",
+      "4. Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "5. Parents want safer phones for kids. These companies are answering the call.",
+      "6. Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "7. Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "8. Sequoia shutting down its Scouts program marks the end of an era",
+      "9. From the front row to the hot seat — what the midterms mean for Big Tech",
+      "10. Crusoe sells troubled Wyoming data center project to Google"
     ]
   }
 }
