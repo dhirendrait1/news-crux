@@ -1,25 +1,25 @@
 {
-  "edition": "morning",
-  "timestamp": "2026-11-10T03:03:07.565635+05:30",
+  "edition": "evening",
+  "timestamp": "2026-11-10T13:06:55.983572+05:30",
   "en": {
     "breaking": [
-      "1. France accuses Iran of supermarket fridge hacking",
-      "2. Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "3. Trump questions midterm elections integrity after previously accepting results",
-      "4. Turkey steel factory blast kills at least 17 people",
-      "5. Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "6. Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "7. Russia's leading independent newspaper closes after eviction",
-      "8. Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "9. At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "10. Krakow shooting suspect has died in hospital, police say"
+      "1. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "2. Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "3. Trump says more US attacks on Iran 'highly unlikely'",
+      "4. Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "5. Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "6. 'Cruise for life' ship seized in Singapore",
+      "7. Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "8. France accuses Iran of supermarket fridge hacking",
+      "9. Qantas to outsource 850 local jobs with most roles moving to India",
+      "10. Russia's leading independent newspaper closes after eviction"
     ],
     "india": [
-      "1. Bengaluru family murders: All seven bodies recovered",
-      "2. Ethanol blend row: Minister stands firm on claim, demands independent fuel testing",
-      "3. Policeman beaten to death in Theni over Deepavali celebration dispute",
-      "4. Building over Srinagar’s future",
-      "5. Wayanad conservationist N. Badusha wins environmental award"
+      "1. Restaurants’ operation suspension was necessary when violations posed extremely serious food safety hazard: Telangana SAFE chief",
+      "2. J&K court releases two youth after 6 years, says ‘suspicion, however grave, cannot substitute proof’",
+      "3. Three members of family killed, four injured as house collapses in MP's Singrauli",
+      "4. Kerala HC allows hotel Radisson Blu in Kochi to operate till 3 a.m.",
+      "5. ‘Where I truly belong’: Sonia Gandhi on her memoir ‘Belonging: A Journey of Love’"
     ],
     "finance": [
       "1. Jensen Huang exit odds are low on prediction markets after Nvidia probe",
@@ -34,49 +34,49 @@
       "10. What the Democratic midterms sweep changes for U.S.-China relations"
     ],
     "crypto": [
-      "1. Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-      "2. A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "3. Google’s AI chip push adds more pressure on Nvidia",
-      "4. North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "5. NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "6. Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "7. Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "8. Bitcoin bulls can't rely on ETF flows",
-      "9. Nvidia-led tech selloff weighs on crypto majors",
-      "10. Zcash developers want 20-second blocks just days after major speed upgrade"
+      "1. An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "2. Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "3. XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "4. Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "5. Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "6. Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "7. A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "8. Google’s AI chip push adds more pressure on Nvidia",
+      "9. North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "10. NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race"
     ],
     "viral": [
-      "1. Fervo now has $12B in orders for its geothermal power tech",
-      "2. Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "3. YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "4. Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "5. AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "6. France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "7. Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "8. Meta releases Muse Ember, a new lightweight model for agent execution",
-      "9. Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "10. Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+      "1. Otter AI can now follow conversations across 30+ languages",
+      "2. California’s proposed ‘billionaire tax’ fails to pass",
+      "3. Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "4. Anthropic reportedly plans to move forward with IPO plans",
+      "5. Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "6. Hotel giant Wyndham exposed customer data after app security lapse",
+      "7. A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "8. The race is on to sue Nvidia",
+      "9. Fervo now has $12B in orders for its geothermal power tech",
+      "10. Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
     ]
   },
   "hi": {
     "breaking": [
-      "1. France accuses Iran of supermarket fridge hacking",
-      "2. Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "3. Trump questions midterm elections integrity after previously accepting results",
-      "4. Turkey steel factory blast kills at least 17 people",
-      "5. Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "6. Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "7. Russia's leading independent newspaper closes after eviction",
-      "8. Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "9. At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "10. Krakow shooting suspect has died in hospital, police say"
+      "1. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "2. Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "3. Trump says more US attacks on Iran 'highly unlikely'",
+      "4. Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "5. Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "6. 'Cruise for life' ship seized in Singapore",
+      "7. Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "8. France accuses Iran of supermarket fridge hacking",
+      "9. Qantas to outsource 850 local jobs with most roles moving to India",
+      "10. Russia's leading independent newspaper closes after eviction"
     ],
     "india": [
-      "1. Bengaluru family murders: All seven bodies recovered",
-      "2. Ethanol blend row: Minister stands firm on claim, demands independent fuel testing",
-      "3. Policeman beaten to death in Theni over Deepavali celebration dispute",
-      "4. Building over Srinagar’s future",
-      "5. Wayanad conservationist N. Badusha wins environmental award"
+      "1. Restaurants’ operation suspension was necessary when violations posed extremely serious food safety hazard: Telangana SAFE chief",
+      "2. J&K court releases two youth after 6 years, says ‘suspicion, however grave, cannot substitute proof’",
+      "3. Three members of family killed, four injured as house collapses in MP's Singrauli",
+      "4. Kerala HC allows hotel Radisson Blu in Kochi to operate till 3 a.m.",
+      "5. ‘Where I truly belong’: Sonia Gandhi on her memoir ‘Belonging: A Journey of Love’"
     ],
     "finance": [
       "1. Jensen Huang exit odds are low on prediction markets after Nvidia probe",
@@ -91,28 +91,28 @@
       "10. What the Democratic midterms sweep changes for U.S.-China relations"
     ],
     "crypto": [
-      "1. Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-      "2. A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "3. Google’s AI chip push adds more pressure on Nvidia",
-      "4. North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "5. NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "6. Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "7. Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "8. Bitcoin bulls can't rely on ETF flows",
-      "9. Nvidia-led tech selloff weighs on crypto majors",
-      "10. Zcash developers want 20-second blocks just days after major speed upgrade"
+      "1. An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "2. Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "3. XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "4. Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "5. Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "6. Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "7. A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "8. Google’s AI chip push adds more pressure on Nvidia",
+      "9. North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "10. NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race"
     ],
     "viral": [
-      "1. Fervo now has $12B in orders for its geothermal power tech",
-      "2. Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "3. YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "4. Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "5. AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "6. France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "7. Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "8. Meta releases Muse Ember, a new lightweight model for agent execution",
-      "9. Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "10. Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+      "1. Otter AI can now follow conversations across 30+ languages",
+      "2. California’s proposed ‘billionaire tax’ fails to pass",
+      "3. Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "4. Anthropic reportedly plans to move forward with IPO plans",
+      "5. Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "6. Hotel giant Wyndham exposed customer data after app security lapse",
+      "7. A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "8. The race is on to sue Nvidia",
+      "9. Fervo now has $12B in orders for its geothermal power tech",
+      "10. Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
     ]
   }
 }
