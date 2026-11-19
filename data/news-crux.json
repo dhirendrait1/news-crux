@@ -1,28 +1,28 @@
 {
-  "edition": "evening",
-  "timestamp": "2026-11-19T13:15:18.760688+05:30",
+  "edition": "morning",
+  "timestamp": "2026-11-20T01:04:10.393593+05:30",
   "en": {
     "breaking": [
-      "1. This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "2. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "3. Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "4. AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
-      "5. Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "6. Crimean Bridge attacked again, Russia says",
-      "7. Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "8. Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "9. Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "10. Parents jailed for torture and death of four-year-old girl found along French motorway in 1987"
+      "1. Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "2. Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "3. Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "4. Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "5. Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "6. Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "7. Venezuela signs military deal with US less than a year after Maduro's removal",
+      "8. Susan Smith denied parole again 32 years after drowning her two sons",
+      "9. US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "10. Survivors of Uganda's deadly landslide seek justice at the UN"
     ],
     "india": [
-      "1. Kerala High Court quashes disproportionate assets case against Minister K.M. Shaji",
-      "2. Cyclone Akvan to spare most of Andhra; red alert remains for Srikakulam, Vizianagaram, Parvathipuram",
-      "3. At least 40 injured as Bengaluru-Hyderabad private bus overturns near Raptadu in Anantapur",
-      "4. Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
-      "5. Free entry to Taj Mahal, Agra Fort on November 19 as Heritage Week begins"
+      "1. 19-year-old B.Tech student found dead at hostel in VIT",
+      "2. Set aside differences and oppose Mekedatu dam, says TNCC president",
+      "3. Assam medical college department withdraws ‘defer marriage’ order for trainees after backlash",
+      "4. Speakers recall Sathya Sai Baba’s emphasis on vital role of women in society",
+      "5. Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68"
     ],
     "finance": [
-      "1. Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+      "1. Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
       "2. Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
       "3. I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
       "4. Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
@@ -34,52 +34,52 @@
       "10. Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding"
     ],
     "crypto": [
-      "1. Fed's rate hike push may be a mistake. Here's why",
-      "2. Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-      "3. Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-      "4. CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "5. Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "6. Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "7. A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-      "8. Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-      "9. German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-      "10. Hong Kong wants banks to use AI to catch crypto crime before money disappears"
+      "1. Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "2. Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "3. Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "4. Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "5. Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+      "6. Trump Media wants to clear $884 million of debt without selling its bitcoin",
+      "7. Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "8. Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+      "9. North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "10. Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction"
     ],
     "viral": [
-      "1. Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "2. Elon Musk says: ‘I’m not MAGA’",
-      "3. Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "4. Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "5. Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "6. Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "7. Anthropic prices IPO at $83 a share, above projected range",
-      "8. Palmer Luckey doesn’t deny that he’s a prepper",
-      "9. Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "10. Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’"
+      "1. Anthropic’s IPO could deliver $156 billion to charity",
+      "2. Google gives Gemini the ability to use your Mac for you",
+      "3. Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "4. Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "5. Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "6. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "7. UK government forced to disclose secret Apple backdoor order",
+      "8. Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "9. Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "10. Superhuman pushes its Go assistant everywhere"
     ]
   },
   "hi": {
     "breaking": [
-      "1. This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "2. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "3. Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "4. AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
-      "5. Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "6. Crimean Bridge attacked again, Russia says",
-      "7. Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "8. Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "9. Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "10. Parents jailed for torture and death of four-year-old girl found along French motorway in 1987"
+      "1. Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "2. Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "3. Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "4. Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "5. Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "6. Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "7. Venezuela signs military deal with US less than a year after Maduro's removal",
+      "8. Susan Smith denied parole again 32 years after drowning her two sons",
+      "9. US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "10. Survivors of Uganda's deadly landslide seek justice at the UN"
     ],
     "india": [
-      "1. Kerala High Court quashes disproportionate assets case against Minister K.M. Shaji",
-      "2. Cyclone Akvan to spare most of Andhra; red alert remains for Srikakulam, Vizianagaram, Parvathipuram",
-      "3. At least 40 injured as Bengaluru-Hyderabad private bus overturns near Raptadu in Anantapur",
-      "4. Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
-      "5. Free entry to Taj Mahal, Agra Fort on November 19 as Heritage Week begins"
+      "1. 19-year-old B.Tech student found dead at hostel in VIT",
+      "2. Set aside differences and oppose Mekedatu dam, says TNCC president",
+      "3. Assam medical college department withdraws ‘defer marriage’ order for trainees after backlash",
+      "4. Speakers recall Sathya Sai Baba’s emphasis on vital role of women in society",
+      "5. Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68"
     ],
     "finance": [
-      "1. Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+      "1. Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
       "2. Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
       "3. I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
       "4. Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
@@ -91,28 +91,28 @@
       "10. Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding"
     ],
     "crypto": [
-      "1. Fed's rate hike push may be a mistake. Here's why",
-      "2. Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-      "3. Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-      "4. CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "5. Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "6. Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "7. A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-      "8. Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-      "9. German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-      "10. Hong Kong wants banks to use AI to catch crypto crime before money disappears"
+      "1. Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "2. Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "3. Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "4. Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "5. Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+      "6. Trump Media wants to clear $884 million of debt without selling its bitcoin",
+      "7. Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "8. Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+      "9. North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "10. Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction"
     ],
     "viral": [
-      "1. Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "2. Elon Musk says: ‘I’m not MAGA’",
-      "3. Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "4. Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "5. Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "6. Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "7. Anthropic prices IPO at $83 a share, above projected range",
-      "8. Palmer Luckey doesn’t deny that he’s a prepper",
-      "9. Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "10. Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’"
+      "1. Anthropic’s IPO could deliver $156 billion to charity",
+      "2. Google gives Gemini the ability to use your Mac for you",
+      "3. Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "4. Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "5. Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "6. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "7. UK government forced to disclose secret Apple backdoor order",
+      "8. Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "9. Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "10. Superhuman pushes its Go assistant everywhere"
     ]
   }
 }
