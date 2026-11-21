@@ -1,25 +1,25 @@
 {
   "edition": "evening",
-  "timestamp": "2026-11-21T13:03:26.579459+05:30",
+  "timestamp": "2026-11-21T23:37:49.338341+05:30",
   "en": {
     "breaking": [
-      "1. Tech stock sell-off drags markets down as Anthropic shares slide",
-      "2. Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "3. French police officers sentenced for beating of music producer Michel Zecler",
-      "4. Man convicted of starting Palisades fire in Los Angeles",
-      "5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "6. In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "7. Gérard Depardieu and French author investigated over sexual allegations",
-      "8. Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "9. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "10. Trump threatens ban on US firms building AI data centres overseas"
+      "1. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "2. Tech stock sell-off drags markets down as Anthropic shares slide",
+      "3. Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "4. FBI reportedly investigating apparent hack of its criminal database",
+      "5. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "6. French police officers sentenced for beating of music producer Michel Zecler",
+      "7. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "8. Man convicted of starting Palisades fire in Los Angeles",
+      "9. Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "10. In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest"
     ],
     "india": [
-      "1. What is the controversy over the relocation of the Central Secretariat Library? | Explained",
-      "2. VCK chief terms Supreme Court’s interim verdict in Thirupparankundram case ‘shocking’",
-      "3. PM Modi says India has shown it can break limits, unlock possibilities",
-      "4. Amritpal Singh flown to Amritsar for grandmother's cremation",
-      "5. This 2D rhythm platformer video game is an ode to India’s multiplicities"
+      "1. Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
+      "2. Vijayawada girl selected for National Roller Skating Championship",
+      "3. Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
+      "4. Reverse policies, stop tax sops for rich: Trade unions, farm outfits to PM Modi",
+      "5. Quality of life must be the ultimate goal of Viksit Bharat, says ICSSR Chairman"
     ],
     "finance": [
       "1. How China is using summits to expand its global influence",
@@ -34,49 +34,49 @@
       "10. Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
     ],
     "crypto": [
-      "1. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "2. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "3. Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "4. Kalshi races to get ahead of New York order that could shut down exchange",
-      "5. Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "6. Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "7. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "8. Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "9. U.S. Senate passes bill to ban prediction market bets on war and death",
-      "10. Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut"
+      "1. Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "2. Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "3. Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "4. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "5. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "6. Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "7. Kalshi races to get ahead of New York order that could shut down exchange",
+      "8. Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "9. Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "10. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street"
     ],
     "viral": [
-      "1. Startup sues Apple in India over tap-to-share contacts feature",
-      "2. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "3. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "4. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "5. Super-hot rock geothermal could end data center energy woes",
-      "6. Chips can survive the space environment — can their financing?",
-      "7. Bending Spoons buys Mailchimp for $3.68B",
-      "8. A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "9. Six AI-powered gadgets that could make your home office smarter",
-      "10. Behind Jensen Huang’s exit, questions about a management style reportedly built on fear"
+      "1. Here are the top AI agents that can live in your text messages",
+      "2. Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "3. Alaska, your next governor is a Wikipedia nerd",
+      "4. Startup sues Apple in India over tap-to-share contacts feature",
+      "5. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "6. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "7. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "8. Super-hot rock geothermal could end data center energy woes",
+      "9. Chips can survive the space environment — can their financing?",
+      "10. Bending Spoons buys Mailchimp for $3.68B"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Tech stock sell-off drags markets down as Anthropic shares slide",
-      "2. Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "3. French police officers sentenced for beating of music producer Michel Zecler",
-      "4. Man convicted of starting Palisades fire in Los Angeles",
-      "5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "6. In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "7. Gérard Depardieu and French author investigated over sexual allegations",
-      "8. Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "9. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "10. Trump threatens ban on US firms building AI data centres overseas"
+      "1. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "2. Tech stock sell-off drags markets down as Anthropic shares slide",
+      "3. Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "4. FBI reportedly investigating apparent hack of its criminal database",
+      "5. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "6. French police officers sentenced for beating of music producer Michel Zecler",
+      "7. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "8. Man convicted of starting Palisades fire in Los Angeles",
+      "9. Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "10. In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest"
     ],
     "india": [
-      "1. What is the controversy over the relocation of the Central Secretariat Library? | Explained",
-      "2. VCK chief terms Supreme Court’s interim verdict in Thirupparankundram case ‘shocking’",
-      "3. PM Modi says India has shown it can break limits, unlock possibilities",
-      "4. Amritpal Singh flown to Amritsar for grandmother's cremation",
-      "5. This 2D rhythm platformer video game is an ode to India’s multiplicities"
+      "1. Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
+      "2. Vijayawada girl selected for National Roller Skating Championship",
+      "3. Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
+      "4. Reverse policies, stop tax sops for rich: Trade unions, farm outfits to PM Modi",
+      "5. Quality of life must be the ultimate goal of Viksit Bharat, says ICSSR Chairman"
     ],
     "finance": [
       "1. How China is using summits to expand its global influence",
@@ -91,28 +91,28 @@
       "10. Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
     ],
     "crypto": [
-      "1. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "2. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "3. Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "4. Kalshi races to get ahead of New York order that could shut down exchange",
-      "5. Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "6. Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "7. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "8. Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "9. U.S. Senate passes bill to ban prediction market bets on war and death",
-      "10. Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut"
+      "1. Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "2. Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "3. Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "4. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "5. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "6. Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "7. Kalshi races to get ahead of New York order that could shut down exchange",
+      "8. Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "9. Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "10. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street"
     ],
     "viral": [
-      "1. Startup sues Apple in India over tap-to-share contacts feature",
-      "2. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "3. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "4. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "5. Super-hot rock geothermal could end data center energy woes",
-      "6. Chips can survive the space environment — can their financing?",
-      "7. Bending Spoons buys Mailchimp for $3.68B",
-      "8. A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "9. Six AI-powered gadgets that could make your home office smarter",
-      "10. Behind Jensen Huang’s exit, questions about a management style reportedly built on fear"
+      "1. Here are the top AI agents that can live in your text messages",
+      "2. Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "3. Alaska, your next governor is a Wikipedia nerd",
+      "4. Startup sues Apple in India over tap-to-share contacts feature",
+      "5. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "6. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "7. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "8. Super-hot rock geothermal could end data center energy woes",
+      "9. Chips can survive the space environment — can their financing?",
+      "10. Bending Spoons buys Mailchimp for $3.68B"
     ]
   }
 }
