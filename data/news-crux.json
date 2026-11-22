@@ -1,25 +1,25 @@
 {
   "edition": "evening",
-  "timestamp": "2026-11-21T23:37:49.338341+05:30",
+  "timestamp": "2026-11-22T12:45:09.973142+05:30",
   "en": {
     "breaking": [
-      "1. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "2. Tech stock sell-off drags markets down as Anthropic shares slide",
-      "3. Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "4. FBI reportedly investigating apparent hack of its criminal database",
-      "5. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "6. French police officers sentenced for beating of music producer Michel Zecler",
-      "7. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "8. Man convicted of starting Palisades fire in Los Angeles",
-      "9. Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "10. In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest"
+      "1. New draft deal aims to avert collapse of talks at climate summit",
+      "2. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "3. Russia-bound ship attacked in Gulf of Finland",
+      "4. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "5. FBI reportedly investigating apparent hack of its criminal database",
+      "6. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "7. Man convicted of starting Palisades fire in Los Angeles",
+      "8. Dozens missing after fire at Indonesian factory",
+      "9. Lock of former US President George Washington's hair sells for $4,000",
+      "10. Deal with EU not dependent on tuition fees agreement, Miliband says"
     ],
     "india": [
-      "1. Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
-      "2. Vijayawada girl selected for National Roller Skating Championship",
-      "3. Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
-      "4. Reverse policies, stop tax sops for rich: Trade unions, farm outfits to PM Modi",
-      "5. Quality of life must be the ultimate goal of Viksit Bharat, says ICSSR Chairman"
+      "1. At least nine killed, several injured as vehicle carrying pilgrims rams into truck in Rajasthan’s Kota",
+      "2. Teenager killed in bus-bike collision as alleged over-speeding claims another life in Kochi",
+      "3. Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
+      "4. Fake MCD parking slips used to dupe motorists in Old Delhi; two rackets busted in 24 hours",
+      "5. Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor"
     ],
     "finance": [
       "1. How China is using summits to expand its global influence",
@@ -34,7 +34,7 @@
       "10. Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
     ],
     "crypto": [
-      "1. Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "1. Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "2. Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
       "3. Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "4. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
@@ -46,37 +46,37 @@
       "10. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street"
     ],
     "viral": [
-      "1. Here are the top AI agents that can live in your text messages",
-      "2. Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "3. Alaska, your next governor is a Wikipedia nerd",
-      "4. Startup sues Apple in India over tap-to-share contacts feature",
-      "5. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "6. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "7. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "8. Super-hot rock geothermal could end data center energy woes",
-      "9. Chips can survive the space environment — can their financing?",
-      "10. Bending Spoons buys Mailchimp for $3.68B"
+      "1. Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "2. A tale of two Nvidias",
+      "3. Trump says reported FBI database hack is ‘not good’",
+      "4. Here are the top AI agents that can live in your text messages",
+      "5. Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "6. Alaska, your next governor is a Wikipedia nerd",
+      "7. Startup sues Apple in India over tap-to-share contacts feature",
+      "8. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "9. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "10. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
     ]
   },
   "hi": {
     "breaking": [
-      "1. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "2. Tech stock sell-off drags markets down as Anthropic shares slide",
-      "3. Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "4. FBI reportedly investigating apparent hack of its criminal database",
-      "5. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "6. French police officers sentenced for beating of music producer Michel Zecler",
-      "7. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "8. Man convicted of starting Palisades fire in Los Angeles",
-      "9. Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "10. In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest"
+      "1. New draft deal aims to avert collapse of talks at climate summit",
+      "2. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "3. Russia-bound ship attacked in Gulf of Finland",
+      "4. Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "5. FBI reportedly investigating apparent hack of its criminal database",
+      "6. Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "7. Man convicted of starting Palisades fire in Los Angeles",
+      "8. Dozens missing after fire at Indonesian factory",
+      "9. Lock of former US President George Washington's hair sells for $4,000",
+      "10. Deal with EU not dependent on tuition fees agreement, Miliband says"
     ],
     "india": [
-      "1. Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
-      "2. Vijayawada girl selected for National Roller Skating Championship",
-      "3. Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
-      "4. Reverse policies, stop tax sops for rich: Trade unions, farm outfits to PM Modi",
-      "5. Quality of life must be the ultimate goal of Viksit Bharat, says ICSSR Chairman"
+      "1. At least nine killed, several injured as vehicle carrying pilgrims rams into truck in Rajasthan’s Kota",
+      "2. Teenager killed in bus-bike collision as alleged over-speeding claims another life in Kochi",
+      "3. Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
+      "4. Fake MCD parking slips used to dupe motorists in Old Delhi; two rackets busted in 24 hours",
+      "5. Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor"
     ],
     "finance": [
       "1. How China is using summits to expand its global influence",
@@ -91,7 +91,7 @@
       "10. Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
     ],
     "crypto": [
-      "1. Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "1. Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "2. Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
       "3. Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "4. Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
@@ -103,16 +103,16 @@
       "10. Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street"
     ],
     "viral": [
-      "1. Here are the top AI agents that can live in your text messages",
-      "2. Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "3. Alaska, your next governor is a Wikipedia nerd",
-      "4. Startup sues Apple in India over tap-to-share contacts feature",
-      "5. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "6. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "7. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "8. Super-hot rock geothermal could end data center energy woes",
-      "9. Chips can survive the space environment — can their financing?",
-      "10. Bending Spoons buys Mailchimp for $3.68B"
+      "1. Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "2. A tale of two Nvidias",
+      "3. Trump says reported FBI database hack is ‘not good’",
+      "4. Here are the top AI agents that can live in your text messages",
+      "5. Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "6. Alaska, your next governor is a Wikipedia nerd",
+      "7. Startup sues Apple in India over tap-to-share contacts feature",
+      "8. Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "9. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "10. AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
     ]
   }
 }
